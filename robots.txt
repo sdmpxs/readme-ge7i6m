@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdmpxs.github.io/readme-ge7i6m/sitemap.xml
